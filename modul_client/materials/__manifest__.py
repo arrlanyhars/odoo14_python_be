@@ -14,7 +14,7 @@
         'views/material_views.xml',
         'views/pos_assets.xml',
         'views/mail_template_data.xml',
-        'views/pos_menu.xml'
+        #'views/pos_menu.xml'
     ],
     'qweb': [],
     'application': False,
