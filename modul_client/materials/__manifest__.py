@@ -4,7 +4,7 @@
     'category': 'material',
     'summary': 'Material Custom Module',
     'description': """
-        Material Custom Module with API by Arryanda Maulani
+        Material Custom Module with API by Arryanda M
     """,
     'website': '',
     'author': 'Arryanda Maulani',
